@@ -1,12 +1,12 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-//import App from "./App.jsx";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 function ContactMeForm() {
     return(
-        <div> test2
+        <div>
             <Routes>
-                <Route path="*">Home</Route>
+                <Route path="/" />
             </Routes>
+            <Link to="/">Home</Link>
         </div>
     )
 }
