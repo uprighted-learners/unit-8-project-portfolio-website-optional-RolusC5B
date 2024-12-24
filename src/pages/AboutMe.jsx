@@ -1,13 +1,6 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-
 function AboutMe() {
     return(
         <div>
-
-            <Routes>
-                <Route path="/" />
-            </Routes>
-            <Link to="/">Home</Link>
 
             <br></br>
             <br></br>
