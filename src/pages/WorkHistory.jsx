@@ -9,8 +9,8 @@ function WorkHistory() {
             <a>I know HTML, CSS, Javascript, Web Development, Git, and Command Line</a>
             <br></br>
             <br></br>
-                <img src="/images/Resume.png" alt="Screenshot of Resume File" />
-            <a href="/assets/Resume.pdf" download></a>
+                <img src="src/images/Resume.png" alt="Screenshot of Resume File" width="1000"/>
+            <a href="src/assets/Resume.pdf" download></a>
         </div>
     )
 }
