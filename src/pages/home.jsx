@@ -5,7 +5,7 @@ function home() {
       <p>Hello my name is Garrett Kennedy</p>
       <figure>
         <picture>
-          <img src="src/images/PictureOfSelf.jpg" width="400"/>"
+          <img src="src/images/PictureOfSelf.jpg" width="400"/>
         </picture>
       </figure>
             
