@@ -33,7 +33,6 @@ function App() {
       
       </nav>
       
-        
       <footer class="footer">
       <a class="centeredText">This website is not copyrighted</a>
       <a class="FlexedItem">
@@ -45,7 +44,6 @@ function App() {
         <a class="FooterLinksCSS"><Link to="/ProjectsOrPortfolios">Projects and Portfolios</Link></a>
         <a class="FooterLinksCSS"><Link to="/WorkHistory">Work History</Link></a>
       </a>
-        
         
       </footer>
       
