@@ -13,6 +13,6 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} initialEntries={[`/home`]} />
+    <RouterProvider router={router} initialEntries={[`/`]} />
   </React.StrictMode>
 );
